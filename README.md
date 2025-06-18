@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Breno Levi.
-- 👀 I’m an Electrical Engineer who likes Python, C, C++, Java, JavaScript, and Embedded Android. 
-- 🙂 I also like mobile networks, 5G, IMS, linear programming, astronomy, graphic novels and tofu.
-- 🌱 I’m currently learning Kotlin and web development.
+- 👀 I’m a System Engineer who likes Python, C, C++, Java, JavaScript, and Embedded Linux. 
+- 🙂 I really like cellular networks, IMS, linear programming, astronomy, graphic novels and French cheese.
+- 🌐 You can read some of my posts about 5G, 6G, the tech and the future on [bravenewnet.com](https://www.bravenewnet.com)
 - 📫 To reach me: [linkedin.com/in/brenolevi/](https://www.linkedin.com/in/brenolevi/)
 
 <!---
